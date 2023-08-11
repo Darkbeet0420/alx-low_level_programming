@@ -3,8 +3,8 @@
 /* more headers goes there */
 #include <stdio.h>
 /* betty style doc for function main goes there */
-/*
- * main - Describes positive, Zero or Negative
+/**
+ * main - Describes if a number is positive, Zero or Negative
  *
  * Return: Always 0 upon success
  */
